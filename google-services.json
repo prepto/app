@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "492191243375",
+    "firebase_url": "https://getprepto.firebaseio.com",
+    "project_id": "getprepto",
+    "storage_bucket": "getprepto.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:492191243375:android:144ddc2a5ebe44d733819a",
+        "android_client_info": {
+          "package_name": "com.prepto.prepto"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "492191243375-8oele1o8i1ri81r9nk053nnbt0qaifpq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRyG-b0rTipgR-3ypytM4WMc6NiqHi_ks"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "492191243375-8oele1o8i1ri81r9nk053nnbt0qaifpq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
